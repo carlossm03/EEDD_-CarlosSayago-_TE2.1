@@ -12,7 +12,7 @@
 
 ### 5.1
 
-### 6.1![1.6.gif](1.6.gif "Este es mi GIF")
+### 6.1![1.6.gif](1.6.gif.gif "Este es mi GIF")
 
 ### 8.1 Aqui se me ha olvidado grabarlo pero en otros puntos se hace lo mismo 
 
